@@ -155,6 +155,17 @@ The Photos Tab allows you to view all your photos and videos in one place. You c
 
 The Contacts Tab
 ### Adding a Contact
+To add a new contact, click on the "+ New contact" button at the top of the leftmost column. 
+
+<img src="Wiki%20Assets/create_new_contact.png" height="250" />
+
+This will open a contact called "New contact", which you can modify.
+
+<img src="Wiki%20Assets/edit_new_contact.png" height="500" />
+
+You can also and a contact to a Group using the "Add contact in group" button under "Groups." You can also add additional information by going over to the "+ New Property" section. Click on "Choose Property Type" to add notes to a contact, such as a nickname or a website. 
+
+These contacts are auto-saved, so there's no need to manually save any changes to a contact!
 
 ## Underscore TV
 

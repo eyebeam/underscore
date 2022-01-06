@@ -167,6 +167,36 @@ You can also and a contact to a Group using the "Add contact in group" button un
 
 These contacts are auto-saved, so there's no need to manually save any changes to a contact!
 
+### Adding a Group
+To create a group, click on the + icon to the right of the "Groups" tab on the leftmost column.
+
+<img src="Wiki%20Assets/create_group.png" height="200" />
+
+You will then be prompted to enter a name for your group. When you have finished, you can click the right arrow to create your group.
+
+### Adding a Circle
+Circles allow you to create groups with other users on a Nextcloud instance and share with them.
+
+To create a circle, click on the + icon to the right of the "Circles" tab on the leftmost column.
+
+<img src="Wiki%20Assets/create_circle.png" height="200" />
+
+You will then be prompted to enter a name for your circle. Then, you can click the "Create Circle" button to finish.
+
+<img src="Wiki%20Assets/name_circle.png" height="500" />
+
+You can also add additional details about your circle after you create the circle, by clicking on its name in the leftmost column.
+
+<img src="Wiki%20Assets/circle_info.png" height="500" />
+
+You can also add members by clicking on the "+ Add members" button in the middle column. 
+
+<img src="Wiki%20Assets/add_members.png" height="150" />
+
+This will bring up a search bar where you can look through your contacts to add members.
+
+<img src="Wiki%20Assets/search_members.png" height="500" />
+
 ## Underscore TV
 
 ![underscoretv.png](Wiki%20Assets/underscoretv.png?fileId=141571#mimetype=image%2Fpng&hasPreview=true)
@@ -181,7 +211,7 @@ Undersco.re TV is an instance of PeerTube, a free and open-source, decentralized
 
 The Events tab
 
-Underscore uses Mobilizon for event hosting and distribution.
+Underscore uses Mobilizon for event hosting and distribution. Mobilizon is a free-libre and open source software maintained and financed by the French not-for-profit Framasoft.
 
 
 
@@ -191,7 +221,7 @@ Underscore uses Mobilizon for event hosting and distribution.
 
 The Maps tab
 
-Underscore uses Leaflet for maps
+Underscore uses Leaflet for maps. Leaflet is an open source JavaScript library used to build web mapping applications.
 
 ## Tasks
 

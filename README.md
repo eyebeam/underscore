@@ -254,7 +254,7 @@ By default, Underscore TV makes the first frame of the video the thumbnail. If y
 
 <img src="Wiki%20Assets/thumbnail.png" height="350" />
 
-Note that the thumbnail must not exceed 4 MD and must be a .png, .jpg, .jpeg, or .webp file.
+Note that the thumbnail must not exceed 4 MB and must be a .png, .jpg, .jpeg, or .webp file.
 
 #### Enabling and Disabling Comments and Downloads
 

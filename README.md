@@ -231,6 +231,31 @@ Undersco.re TV is an instance of PeerTube, a free and open-source, decentralized
 
 You can read more about PeerTube [here](https://docs.joinpeertube.org/).
 
+### RSS Feeds for Videos and Channels
+
+To get the RSS Feed for a channel, navigate to their front page.
+
+<img src="Wiki%20Assets/channel.png" height="450" />
+
+Underneath the **Videos** and **Playlists** tabs, click on the signal symbol.
+
+<img src="Wiki%20Assets/rss_feed_channel.png" height="200" />
+
+From there you can select your desired format.
+
+### JSON for Playlists
+
+To get the JSON data for any playlist you can use the URL:
+```
+https://tv.undersco.re/api/v1/video-playlists/${playlist-id}/videos
+```
+Where "${playlist-id}" is the [ID of the playlist](https://docs.joinpeertube.org/api-rest-reference.html#tag/Video-Playlists/paths/~1video-playlists~1%7BplaylistId%7D/get). 
+
+Take this playlist as an example:
+
+<img src="Wiki%20Assets/playlist_id.png" height="400" />
+
+Here, the playlist ID would be **20f7d352-1a02-4d95-b931-74cf251f4cd7**.
 ## Events
 
 ![events.png](Wiki%20Assets/events.png?fileId=141561#mimetype=image%2Fpng&hasPreview=true)

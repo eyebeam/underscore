@@ -230,6 +230,47 @@ This will bring up a search bar where you can look through your contacts to add 
 Undersco.re TV is an instance of PeerTube, a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent, that uses peer-to-peer technology to reduce load on individual servers when viewing videos.
 
 You can read more about PeerTube [here](https://docs.joinpeertube.org/).
+### Uploading a Video
+
+To upload a video, click on the "Publish" button on the upper righthand corner.
+
+<img src="Wiki%20Assets/publish.png" height="50" />
+
+You can then select your method of upload and which channel the video will be uploaded to, and choose whether the video is private, public, or unlisted.
+
+Click "Import" to upload the video.
+
+<img src="Wiki%20Assets/upload_type.png" height="500" />
+
+You will then be directed to the info page for your video, where you can add a description and tags.
+
+<img src="Wiki%20Assets/vid_info.png" height="500" />
+
+Remember to click "Update" in the bottom right corner once you are finished to save changes to your video.
+
+#### Adding a Thumbnail
+
+By default, Underscore TV makes the first frame of the video the thumbnail. If you want a custom thumbnail, you can add an image under the "Advanced settings" tab. From there, under "Video preview" you can edit the photo to your desired thumbnail.
+
+<img src="Wiki%20Assets/thumbnail.png" height="350" />
+
+Note that the thumbnail must not exceed 4 MD and must be a .png, .jpg, .jpeg, or .webp file.
+
+#### Enabling and Disabling Comments and Downloads
+
+You can also modify whether viewers are able to leave comments or download your videos under the "Advanced settings tab. Simply check or uncheck the feature you want to enable or disable. By default, both of these features are enabled.
+
+<img src="Wiki%20Assets/en_comments.png" height="100" />
+
+#### Adding Captions 
+
+You can also add **captions** to your video. First click on the "Captions" tab. Then click on the "Add another caption" button in the top right corner.
+
+<img src="Wiki%20Assets/add_caption.png" height="50" />
+
+You can then select the language of your caption and upload an SRT file of the captions.
+
+<img src="Wiki%20Assets/cap_type.png" height="500" />
 
 ### RSS Feeds for Videos and Channels
 

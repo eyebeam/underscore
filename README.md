@@ -59,7 +59,7 @@ To access the settings, click on your user icon in the top right corner of the b
 
 To change the language, navigate over to "Personal Info" which is the first tab on the left column.
 
-<img src="Wiki%20Assets/settings_tabs.png" height="400" />
+<img src="Wiki%20Assets/settings_tabs.png" height="450" />
 
 Information about your account will appear. Under "Language" you can switch the current language to your preferred language.
 
@@ -75,7 +75,7 @@ The Activity Tab is a log of all activity made by you or others. You can see whe
 On the left side of the screen, you can select different kinds of activity logs to view.
 
 
-<img src="Wiki%20Assets/activity_bar.png" height="700" />
+<img src="Wiki%20Assets/activity_bar.png" height="600" />
 
 ## Files
 
@@ -87,7 +87,7 @@ The Files Tab is where all your files are stored.
 
 Click on the '+' sign to create or upload a file. 
 
-<img src="Wiki%20Assets/file_upload.png" height="300" />
+<img src="Wiki%20Assets/file_upload.png" height="350" />
 
 To upload a file, click on the "Upload file" button. You will then be prompted to select the file from your local computer. You can select multiple files to upload, which can be done by holding the command/control key while selecting items. 
 
@@ -132,11 +132,11 @@ The Deck Tab is an area where you can keep track of and manage your work.
 
 To create a board click on the "+ Add board" tab at the bottom of the left column. 
 
-<img src="Wiki%20Assets/create_board.png" height="300" />
+<img src="Wiki%20Assets/create_board.png" height="350" />
 
 After clicking, a prompt will appear that will allow you to name your board. 
 
-<img src="Wiki%20Assets/color_board.png" height="300" />
+<img src="Wiki%20Assets/color_board.png" height="350" />
 
 You can also change the color by clicking on the eyedropper icon to the left of the text field. Then, click on the arrow to finish creating the board. You can also cancel by selecting the X.
 
@@ -144,7 +144,7 @@ You can also change the color by clicking on the eyedropper icon to the left of 
 
 You can delete a board by clicking the three dots shown on the left column. 
 
-<img src="Wiki%20Assets/delete_board.png" height="500" />
+<img src="Wiki%20Assets/delete_board.png" height="550" />
 
 ### Adding a List
 
@@ -181,11 +181,11 @@ The Contacts Tab is where all your contacts are stored.
 
 To add a new contact, click on the "+ New contact" button at the top of the leftmost column. 
 
-<img src="Wiki%20Assets/create_new_contact.png" height="250" />
+<img src="Wiki%20Assets/create_new_contact.png" height="300" />
 
 This will open a contact called "New contact", which you can modify.
 
-<img src="Wiki%20Assets/edit_new_contact.png" height="500" />
+<img src="Wiki%20Assets/edit_new_contact.png" height="600" />
 
 You can also and a contact to a Group using the "Add contact in group" button under "Groups." You can also add additional information by going over to the "+ New Property" section. Click on "Choose Property Type" to add notes to a contact, such as a nickname or a website. 
 
@@ -209,11 +209,11 @@ To create a circle, click on the + icon to the right of the "Circles" tab on the
 
 You will then be prompted to enter a name for your circle. Then, you can click the "Create Circle" button to finish.
 
-<img src="Wiki%20Assets/name_circle.png" height="500" />
+<img src="Wiki%20Assets/name_circle.png" height="550" />
 
 You can also add additional details about your circle after you create the circle, by clicking on its name in the leftmost column.
 
-<img src="Wiki%20Assets/circle_info.png" height="500" />
+<img src="Wiki%20Assets/circle_info.png" height="650" />
 
 You can also add members by clicking on the "+ Add members" button in the middle column. 
 
@@ -221,7 +221,7 @@ You can also add members by clicking on the "+ Add members" button in the middle
 
 This will bring up a search bar where you can look through your contacts to add members.
 
-<img src="Wiki%20Assets/search_members.png" height="500" />
+<img src="Wiki%20Assets/search_members.png" height="550" />
 
 ## Underscore TV
 
@@ -235,7 +235,7 @@ You can read more about PeerTube [here](https://docs.joinpeertube.org/).
 
 To get the RSS Feed for a channel, navigate to their front page.
 
-<img src="Wiki%20Assets/channel.png" height="450" />
+<img src="Wiki%20Assets/channel.png" height="550" />
 
 Underneath the **Videos** and **Playlists** tabs, click on the signal symbol.
 
@@ -253,7 +253,7 @@ Where "${playlist-id}" is the [ID of the playlist](https://docs.joinpeertube.org
 
 Take this playlist as an example:
 
-<img src="Wiki%20Assets/playlist_id.png" height="400" />
+<img src="Wiki%20Assets/playlist_id.png" height="550" />
 
 Here, the playlist ID would be **20f7d352-1a02-4d95-b931-74cf251f4cd7**.
 ## Events

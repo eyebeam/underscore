@@ -270,7 +270,7 @@ You can also add **captions** to your video. First click on the "Captions" tab. 
 
 You can then select the language of your caption and upload an SRT file of the captions.
 
-<img src="Wiki%20Assets/cap_type.png" height="500" />
+<img src="Wiki%20Assets/cap_type.png" height="350" />
 
 ### RSS Feeds for Videos and Channels
 
